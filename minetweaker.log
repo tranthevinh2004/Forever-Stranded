@@ -1,0 +1,198 @@
+[POSTINITIALIZATION][CLIENT][ERROR] system: JEI is already defined in that package
+[POSTINITIALIZATION][CLIENT][INFO] Loaded class registry: JEI mod support
+[POSTINITIALIZATION][CLIENT][INFO] Loaded class registry: IC2 mod support
+[AVAILABLE][CLIENT][INFO] MineTweaker: Building registry
+[AVAILABLE][CLIENT][INFO] MineTweaker: Sucessfully built item registry
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command itemrecipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: itemrecipes failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding command minetweaker
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tooltips
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command randomthings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command materials
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command modifiers
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tconstruct
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselGroups
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselVariations
+[SERVER_ABOUT_TO_START][SERVER][INFO] --- loading Added.zs ---
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding tooltip for <ore:plankWood>: minetweaker.mc1102.formatting.FormattedString@6a14a750
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dragon's Breath
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Oak Chest
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Sponge
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dirty Water Bottle
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Block of Nickel
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Sky Stone
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Printed Calculation Circuit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Printed Logic Circuit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Printed Engineering Circuit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Printed Silicon
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Certus Quartz Crystal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Unfired Clay Bucket
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Hammer
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ice Cube
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Slimeball
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Deep Dark Portal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Transfer Pipe
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Cooling Coil
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Snowball
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Temperature Regulator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Basalt
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Alabaster
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Void Ore Miner Controller Tier 1
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Solar Panel Controller Tier 1
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mega Torch
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Infinite Water Source
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reservoir
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Salt
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Well
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reinforced Obsidian
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Sand
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Rebar
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reinforced Upgrade Kit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Gold Coil
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Titanium Dust
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Emerald AIOT
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Emerald MultiTool
+[SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'Added'
+[SERVER_ABOUT_TO_START][SERVER][INFO] --- loading BetterWithMods.zs ---
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Cornmeal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Black Pepper
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Cocoa Powder
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Ground Cinnamon
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Ground Nutmeg
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 mill Recipe(s) for Curry Powder
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 cauldron Recipe(s) for Boiled Egg
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 cauldron Recipe(s) for Bread
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Donut to ore dictionary entry foodDonut
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Chocolate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'BetterWithMods'
+[SERVER_ABOUT_TO_START][SERVER][INFO] --- loading Removed.zs ---
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'Removed'
+[SERVER_ABOUT_TO_START][SERVER][INFO] Initializing 'oredict'...
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Engineer's Hammer to ore dictionary entry craftingToolForgeHammer
+[SERVER_ABOUT_TO_START][SERVER][INFO] Initialized 'oredict'
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_STOPPING][SERVER][INFO] Server stopping, Scripts are being rolled back!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] Removing Engineer's Hammer from ore dictionary entry craftingToolForgeHammer
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Chocolate
+[SERVER_STOPPING][SERVER][INFO] Removing Donut from ore dictionary entry foodDonut
+[SERVER_STOPPING][SERVER][INFO] Removing 1 cauldron Recipe(s) for Bread
+[SERVER_STOPPING][SERVER][INFO] Removing 1 cauldron Recipe(s) for Boiled Egg
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Curry Powder
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Ground Nutmeg
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Ground Cinnamon
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Cocoa Powder
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Black Pepper
+[SERVER_STOPPING][SERVER][INFO] Removing 1 mill Recipe(s) for Cornmeal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Emerald MultiTool
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Emerald AIOT
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Titanium Dust
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Gold Coil
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reinforced Upgrade Kit
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Rebar
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Sand
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reinforced Obsidian
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Well
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Salt
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reservoir
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Infinite Water Source
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mega Torch
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Solar Panel Controller Tier 1
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Void Ore Miner Controller Tier 1
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Alabaster
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Basalt
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Temperature Regulator
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Snowball
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Cooling Coil
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Transfer Pipe
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Deep Dark Portal
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Slimeball
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ice Cube
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Hammer
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Unfired Clay Bucket
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Certus Quartz Crystal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Printed Silicon
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Printed Engineering Circuit
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Printed Logic Circuit
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Printed Calculation Circuit
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Sky Stone
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Block of Nickel
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dirty Water Bottle
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Sponge
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Oak Chest
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dragon's Breath
+[SERVER_STOPPING][SERVER][INFO] Removing tooltip for <ore:plankWood>: minetweaker.mc1102.formatting.FormattedString@6a14a750
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
